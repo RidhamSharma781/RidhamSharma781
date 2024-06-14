@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhamsharma781" alt="ridhamsharma781" /></a> </p>
 
-- 👨‍💻 All of my projects are available at : [Portfolio ](https://ridham-sharma.netlify.app)
+- 👨‍💻 All of my projects are available at : [Portfolio ](https://portfolio-ridham.netlify.app)
 
 - 💬 Ask me about : **react.js, node.js, express.js, php, sql**
 
